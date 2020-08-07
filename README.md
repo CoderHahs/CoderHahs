@@ -1,6 +1,6 @@
 ### Bonjour !
 
-Some quick things if you're trying to get to know me:e
+Some quick things if you're trying to get to know me:
 
 - 🔭 I’m currently working with **Software for Love**
 - 🌱 I’m currently learning [Orbital Mechanics](https://hrithiks-notes.netlify.com)
