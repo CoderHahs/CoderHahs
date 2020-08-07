@@ -2,7 +2,7 @@
 
 Some quick things if you're trying to get to know me:
 
-- 🔭 I’m currently working with **Software for Love**
+- 🔭 I’m currently working with **Software for Love** ❤️
 - 🌱 I’m currently learning [Orbital Mechanics](https://hrithiks-notes.netlify.com)
 - 🤔 I’m looking for help with the Spotify API
 - 💬 Ask me for music recommendations and anything about Colonizing Mars or Astronomy.
