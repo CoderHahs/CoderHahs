@@ -1,4 +1,4 @@
-### Bonjour !
+### Bonjour!
 
 Some quick things if you're trying to get to know me:
 
