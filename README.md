@@ -10,6 +10,7 @@ Some quick things if you're trying to get to know me:
 [![Instagram Badge](https://img.shields.io/badge/-hrithikhahs-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hrithikhahs/)](https://instagram.com/hrithikhahs)
 - ⚡ Fun fact: Check out some of the people I've interviewed about the tech industry here: [![Youtube Badge](https://img.shields.io/badge/-SESA-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCpz4QJ_fz0ffMZ4tpAXyjBw)](https://www.youtube.com/channel/UCpz4QJ_fz0ffMZ4tpAXyjBw)
 
+---
 
 **Currently** playing on Spotify:
 
