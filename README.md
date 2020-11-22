@@ -3,8 +3,8 @@
 Some quick things if you're trying to get to know me:
 
 - ❤️ I’m currently working with **Software for Love** 
-- 🤔 I'm currently trying to wrap my head around the [Naive-Bayes Classifier](https://hrithiks-notes.netlify.app/ai/5_naive_bayes)
-- 🎵 I’m looking for help with the Spotify API
+- 🤔 I'm currently trying to wrap my head around [P vs. NP Problems](https://hrithiks-notes.netlify.app/algorithms/8_p_vs_np)
+- 🎵 I’m looking for help with the SpaceX API
 - 🚀 Ask me for music recommendations and anything about Colonizing Mars or Astronomy.
 - 💬 Spark a conversation with me on [![Linkedin Badge](https://img.shields.io/badge/-hrithikshah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithik-shah/)](https://www.linkedin.com/in/hrithik-shah/) 
 [![Instagram Badge](https://img.shields.io/badge/-hrithikhahs-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hrithikhahs/)](https://instagram.com/hrithikhahs)
