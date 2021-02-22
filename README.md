@@ -2,7 +2,7 @@
 
 Some quick things if you're trying to get to know me:
 
-- ❤️ I’m currently working with **Software for Love** 
+- ❤️ I’m currently working with **Software for Love** and the **Secdev Group**
 - 🤔 I'm currently trying to wrap my head around [P vs. NP Problems](https://hrithiks-notes.netlify.app/algorithms/8_p_vs_np)
 - ⚛️ I’m learning React Native right now!
 - 🚀 Ask me for music recommendations and anything about Colonizing Mars or Astronomy.
