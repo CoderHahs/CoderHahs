@@ -2,8 +2,8 @@
 
 Some quick things if you're trying to get to know me:
 
-- ❤️ I’m a Software Developer Intern at [Flinks](https://www.flinks.com) helping build an open-banking API
-- 📈 I lead a non-profit organization called [Software For Love](https://www.softwareforlove.com). We're hiring!
+- 📈 I’m a Software Developer Intern at [Flinks](https://www.flinks.com) helping build an open-banking API
+- ❤️ I lead a non-profit organization called [Software For Love](https://www.softwareforlove.com). We're hiring!
 - 🤔 I'm currently trying to wrap my head around [Networking and Data Communications](https://hrithiks-notes.netlify.app/data_communication_networking/0_physical_layer)
 - 🚀 Ask me for music recommendations and anything about Colonizing Mars or Astronomy.
 - 💬 Spark a conversation with me on [![Linkedin Badge](https://img.shields.io/badge/-hrithikshah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithik-shah/)](https://www.linkedin.com/in/hrithik-shah/)
