@@ -11,7 +11,7 @@ Some quick things if you're trying to get to know me:
 
 ---
 
-**Currently** playing on Spotify:
+**What I'm listenting to right now!**:
 
 <a href="https://natemoo-re-liart.vercel.app/now-playing?open">
     <img src="https://natemoo-re-liart.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
