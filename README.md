@@ -2,7 +2,7 @@
 
 Some quick things if you're trying to get to know me:
 
-- 📈 I’m a Software Developer Intern at [Flinks](https://www.flinks.com) helping build an open-banking API
+- 📈 I most recently was a Software Developer Intern at [Flinks](https://www.flinks.com) helping build an open-banking API
 - ❤️ I lead a non-profit organization called [Software For Love](https://www.softwareforlove.com). We're hiring!
 - 🤔 I'm currently trying to wrap my head around [Software Requirements](https://hrithiks-notes.netlify.app/software_requirements)
 - 🚀 Ask me for music recommendations and anything about Colonizing Mars or Astronomy.
