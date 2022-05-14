@@ -3,7 +3,7 @@
 Some quick things if you're trying to get to know me:
 
 - 📈 Working as an SDE Intern at [Amazon](https://www.amazon.com) helping build their merchant platform.
-- ❤️ I lead a non-profit organization called [Software For Love](https://www.softwareforlove.com). We're hiring!
+- ❤️ I lead a non-profit organization called [Software For Love](https://www.softwareforlove.com) #spreadinglovethroughsoftware
 - 🤔 I'm currently trying to wrap my head around [Deep Learning applications for Virtual Assistants](https://hrithiks-notes.netlify.app/ai/virtual_assistants/0_speech_recognition#deeplearning)
 - 🚀 Ask me for music recommendations and anything about Colonizing Mars or Astronomy.
 - 💬 Spark a conversation with me on [![Linkedin Badge](https://img.shields.io/badge/-hrithikshah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithik-shah/)](https://www.linkedin.com/in/hrithik-shah/)
