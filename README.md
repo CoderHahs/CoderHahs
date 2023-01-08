@@ -2,7 +2,7 @@
 
 Some quick things if you're trying to get to know me:
 
-- 📈 Working as an SDE Intern at [Amazon](https://www.amazon.com) helping build their merchant platform.
+- 📈 Most recently worked as an SDE Intern at [Amazon](https://www.amazon.com) helping build their merchant platform.
 - ❤️ I lead a non-profit organization called [Software For Love](https://www.softwareforlove.com) #spreadinglovethroughsoftware
 - 🤔 I'm currently trying to wrap my head around [Deep Learning applications for Virtual Assistants](https://hrithiks-notes.netlify.app/ai/virtual_assistants/0_speech_recognition#deeplearning)
 - 🚀 Ask me for music recommendations and anything about Colonizing Mars or Astronomy.
